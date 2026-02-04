@@ -54,8 +54,6 @@ Die App verbindet Datenanalyse mit Empathie – als Beitrag für Forschung, krea
 
 ---
 
-## 📧 Kontakt
+## 🤝 Mitwirken
 
-**K.I. Feelgood**
-
-💌 `KI@feelgood.com`
+Pull Requests und Issues sind willkommen.
